@@ -37,7 +37,6 @@ NOTA: Cabe destacar que mis notas y documentación estarán en PDF
 
 Como editor de código sugiero:
 - [Visual Studio Code](https://code.visualstudio.com)
-- 
 
 
 <!-- GETTING STARTED 
