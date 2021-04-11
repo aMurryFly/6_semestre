@@ -14,7 +14,7 @@ Para cualquier duda o aclaración puedes levantar un issue en el presente reposi
 
 - [Base de Datos](https://github.com/aMurryFly/globalHome_BD) | Jorge Alberto Rodriguez Campos
 - Laboratorio de Base de Datos | Jorge Alberto Rodriguez Campos
-- Diseño Digital Moderno | Elizabeth Fonseca Chavez
+- [Diseño Digital Moderno](https://github.com/aMurryFly/asteroids_FPGA) | Elizabeth Fonseca Chavez
 - Laboratorio de Diseño Digital Moderno | Elizabeth Fonseca Chavez
 - Circuito Eléctricos | Juan Carlo mártinez R.
 - Laboratorio de Circuito Eléctricos | Martha Isela Torres H.
